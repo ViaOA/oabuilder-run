@@ -6,7 +6,7 @@ OABuilder windows installer, and executable jar file
 
 **Using Windows Installer**  
 &nbsp; &nbsp; &nbsp; &nbsp; oabuilder-run\windows-installer  
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; download and run the version that  OABuilder-*.exe  
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; download and run OABuilder-*.exe  
         
 **Running as a Java executable jar file**  
 &nbsp; &nbsp; &nbsp; &nbsp;oabuilder-run\executable-jar  
