@@ -1,0 +1,45 @@
+<html><head>
+  <SCRIPT src="http://java.com/js/dtjava.js"></SCRIPT>
+<script>
+    function launchApplication(jnlpfile) {
+        dtjava.launch(            {
+                url : 'OABuilder.jnlp'
+            },
+            {
+                javafx : '8.0+',
+                jvmargs : '-Xmx1000m -Dsun.java2d.dpiaware=false '
+            },
+            {}
+        );
+        return false;
+    }
+</script>
+
+<script>
+    function javafxEmbedAppId() {
+        dtjava.embed(
+            {
+                id : 'AppId',
+                url : 'OABuilder.jnlp',
+                placeholder : 'javafx-app-placeholder',
+                width : '800',
+                height : '600'
+            },
+            {
+                javafx : '8.0+',
+                jvmargs : '-Xmx1000m -Dsun.java2d.dpiaware=false '
+            },
+            {}
+        );
+    }
+    <!-- Embed FX application into web page once page is loaded -->
+    dtjava.addOnloadCallback(javafxEmbedAppId);
+</script>
+
+</head><body>
+<h2>Test page for <b>OABuilder</b></h2>
+  <b>Webstart:</b> <a href='OABuilder.jnlp' onclick="return launchApplication('OABuilder.jnlp');">click to launch this app as webstart</a><br><hr><br>
+
+  <!-- Applet will be inserted here -->
+  <div id='javafx-app-placeholder'></div>
+</body></html>
