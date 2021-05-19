@@ -67,4 +67,8 @@ To run as executable jar file
     
     2: java -jar oabuilder.jar
     
+Notes:
+    if updating files manually, then remove the OATemplate directory.
     
+    
+        
