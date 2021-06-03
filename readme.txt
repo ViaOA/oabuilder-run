@@ -35,7 +35,7 @@ To build Windows installer
     *****************************
     
     
-    ** this was before using jpackage, using jdk1.8 and ant script for javapackager
+  qqqqqqqq NOT USED qqqqqqqqqqqq  ** this was before using jpackage, using jdk1.8 and ant script for javapackager
     1: create template.zip
         in project OATemplate
             run ANT (build.xml) target name="CreateTemplateZipFile"
