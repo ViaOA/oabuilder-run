@@ -1,16 +1,15 @@
 
-
-
+** See: OABuilder doc/installer_readme.txt 
 
 New runtime versions of OABuilder are stored in the oabuilder-run github repo.
 
 Each version will be stored under a new github tag.
-    ex: 3.0.3
+    ex: 3.2.1
 
 Set version (multiple places):
     src/main/java/com/viaoa/builder/resource/values.properties
     pom.xml
-    package/windows/OABuilder.iss
+    package/windows/OABuilder.iss (??)
 
 update OABuilder-Help project with new version
     branch:dev
@@ -35,7 +34,7 @@ To build Windows installer
     *****************************
     
     
-    ** this was before using jpackage, using jdk1.8 and ant script for javapackager
+  qqqqqqqq NOT USED qqqqqqqqqqqq  ** this was before using jpackage, using jdk1.8 and ant script for javapackager
     1: create template.zip
         in project OATemplate
             run ANT (build.xml) target name="CreateTemplateZipFile"
@@ -67,4 +66,8 @@ To run as executable jar file
     
     2: java -jar oabuilder.jar
     
+Notes:
+    if updating files manually, then remove the OATemplate directory.
     
+    
+        
