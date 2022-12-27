@@ -114,66 +114,12 @@
     <LowerCaseFunction>LOWER</LowerCaseFunction>
   </DBMetaData>
 </Hub>
-<Hub class="com.viaoa.builder.model.MruInfo" total="14">
-  <MruInfo id="g7">
-    <FileName>C:\Users\vvia\git\oabuilder-models\model\HMX_DigitalAds.obx</FileName>
-    <RootDirectory>C:\Users\vvia\git\dap</RootDirectory>
-    <Opened>true</Opened>
-    <Bounds>-27,-81,20,20</Bounds>
-  </MruInfo>
-  <MruInfo id="g6">
-    <FileName>C:\Users\vvia\git\vendor-api\model\VendorAPI.obx</FileName>
-    <RootDirectory>C:\Users\vvia\git\vendor-api</RootDirectory>
-    <Opened>true</Opened>
-    <Bounds>0,0,894,30</Bounds>
-  </MruInfo>
-  <MruInfo id="g5">
-    <FileName>C:\Users\vvia\git\HMAX\model\HMAX.obx</FileName>
-    <RootDirectory>C:\Users\vvia\git\HMAX</RootDirectory>
-    <Opened>true</Opened>
-    <Bounds>-27,-81,25,25</Bounds>
-  </MruInfo>
+<Hub class="com.viaoa.builder.model.MruInfo" total="3">
   <MruInfo id="g8">
     <FileName>C:\Users\vvia\git\oabuilder-models\model\OATemplate.obx</FileName>
     <RootDirectory>C:\Users\vvia\git\OATemplate</RootDirectory>
     <Opened>false</Opened>
     <Bounds>0,0,1209,323</Bounds>
-  </MruInfo>
-  <MruInfo id="g9">
-    <FileName>C:\Users\vvia\git\oabuilder-models\model\CDI3.obx</FileName>
-    <RootDirectory>C:\Users\vvia\git\CDI3</RootDirectory>
-    <Opened>false</Opened>
-    <Bounds>0,0,1670,543</Bounds>
-  </MruInfo>
-  <MruInfo id="g10">
-    <FileName>C:\Users\vvia\git\oabuilder\runtime\test2.obx</FileName>
-    <RootDirectory>C:\Users\vvia\git\OATemplate</RootDirectory>
-    <Opened>false</Opened>
-    <Bounds>0,0,1670,543</Bounds>
-  </MruInfo>
-  <MruInfo id="g11">
-    <FileName>C:\Users\vvia\git\oabuilder-models\model\gohi5.obx</FileName>
-    <RootDirectory>C:\Users\vvia\git\GoHi5</RootDirectory>
-    <Opened>false</Opened>
-    <Bounds>0,0,1294,391</Bounds>
-  </MruInfo>
-  <MruInfo id="g12">
-    <FileName>C:\Users\vvia\git\oabuilder-models\model\txclinic.obx</FileName>
-    <RootDirectory>C:\Users\vvia\git\txclinic</RootDirectory>
-    <Opened>false</Opened>
-    <Bounds>0,0,1670,542</Bounds>
-  </MruInfo>
-  <MruInfo id="g13">
-    <FileName>C:\Users\vvia\git\oabuilder-models\model\VetPlan.obx</FileName>
-    <RootDirectory>C:\Users\vvia\git\VetPlan</RootDirectory>
-    <Opened>false</Opened>
-    <Bounds>0,0,1220,323</Bounds>
-  </MruInfo>
-  <MruInfo id="g14">
-    <FileName>C:\Users\vvia\git\oabuilder-models\model\VetJobs.obx</FileName>
-    <RootDirectory>C:\Users\vvia\git\vetjobs</RootDirectory>
-    <Opened>false</Opened>
-    <Bounds>0,0,1220,323</Bounds>
   </MruInfo>
   <MruInfo id="g15">
     <FileName>C:\Users\vvia\git\oabuilder-models\model\demo.obx</FileName>
@@ -186,18 +132,6 @@
     <RootDirectory>C:\Users\vvia\git\CDI3</RootDirectory>
     <Opened>false</Opened>
     <Bounds>0,0,779,240</Bounds>
-  </MruInfo>
-  <MruInfo id="g17">
-    <FileName>C:\temp\ContractWS.obx</FileName>
-    <RootDirectory>C:\temp\ContractWS</RootDirectory>
-    <Opened>false</Opened>
-    <Bounds>0,0,780,237</Bounds>
-  </MruInfo>
-  <MruInfo id="g18">
-    <FileName>C:\Users\vvia\git\GoHi5\model\gohi5.obx</FileName>
-    <RootDirectory>C:\Users\vvia\git\GoHi5</RootDirectory>
-    <Opened>false</Opened>
-    <Bounds>0,0,780,237</Bounds>
   </MruInfo>
 </Hub>
 <Setting id="g19" class="com.viaoa.builder.model.Setting">
